@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jorge Aguilera, <a href="https://www.gitub.com/a-secureIT">Cybersecurity Analyst</a>, and <a href="https://www.youtube.com/@A-secureiT">Youtuber</a>.<br>
+<h1>Greetings, I'm Jorge Aguilera, <a href="https://www.gitub.com/a-secureIT">Cybersecurity Analyst</a>, and <a href="https://www.youtube.com/@A-secureiT">Youtuber</a>.<br>
 Welcome to my showcase!</h1>
 <B>Please note:</B> To confirm content is coming from me as a source refer to this Markdown page. All content will be embedded and watermarked with "@A-secureiT" throughtout the project.<br>
 <h3>Cyber Security / iT Projects</h3>
